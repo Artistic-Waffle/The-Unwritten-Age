@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Waffle"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.54"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "The Unwritten Age",
+		"description": "The past is not somewhere you visit. It is something people fought to erase.",
+		"min_engine_version": [
+			1,
+			26,
+			0
+		],
+		"uuid": "6fe5edcf-ce08-4306-af25-99b7303f50d3",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "99af9879-063f-41fc-a701-45c2f0eef71a",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "d9949385-c4d8-4b69-ae6a-cd347c3ace51",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
