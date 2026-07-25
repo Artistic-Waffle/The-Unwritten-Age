@@ -3,5 +3,87 @@
 	"padding": 8,
 	"resource_pack_name": "The Unwritten Age",
 	"texture_name": "atlas.terrain",
-	"texture_data": {}
+	"texture_data": {
+		"chiseled_concord_stonebricks": {
+			"textures": "textures/overworld/concord_fields/chiseled_concord_stonebricks"
+		},
+		"concord_stonebricks": {
+			"textures": "textures/overworld/concord_fields/concord_stonebricks"
+		},
+		"mossy_concord_stonebricks": {
+			"textures": "textures/overworld/concord_fields/mossy_concord_stonebricks"
+		},
+		"cracked_concord_stonebricks": {
+			"textures": "textures/overworld/concord_fields/cracked_concord_stonebricks"
+		},
+		"concord_cobblestone": {
+			"textures": "textures/overworld/concord_fields/concord_cobblestone"
+		},
+		"concord_stone": {
+			"textures": "textures/overworld/concord_fields/concord_stone"
+		},
+		"fieldgrass": {
+			"textures": "textures/overworld/concord_fields/fieldgrass"
+		},
+		"concord_soil": {
+			"textures": "textures/overworld/concord_fields/concord_soil"
+		},
+		"concord_grass_block": {
+			"textures": "textures/overworld/concord_fields/concord_grass_block"
+		},
+		"concord_stonebricks_tile":{
+			"textures": "textures/overworld/concord_fields/concord_stonebricks_tile"
+		},
+		"golden_bellflower": {
+			"textures": "textures/overworld/concord_fields/golden_bellflower"
+		},
+		"hearthoak_leaves": {
+			"textures": "textures/overworld/concord_fields/hearthoak_leaves"
+		},
+		"hearthoak_log": {
+			"textures": "textures/overworld/concord_fields/hearthoak_log"
+		},
+		"hearthoak_planks": {
+			"textures": "textures/overworld/concord_fields/hearthoak_planks"
+		},
+		"hearthoak_sapling": {
+			"textures": "textures/overworld/concord_fields/hearthoak_sapling"
+		},
+		"hearthoak_wood": {
+			"textures": "textures/overworld/concord_fields/hearthoak_wood"
+		},
+		"hearth_clover": {
+			"textures": "textures/overworld/concord_fields/hearth_clover"
+		},
+		"memory_daisies": {
+			"textures": "textures/overworld/concord_fields/memory_daisies"
+		},
+		"mossy_concord_cobblestone": {
+			"textures": "textures/overworld/concord_fields/mossy_concord_cobblestone"
+		},
+		"stripped_hearthoak_log": {
+			"textures": "textures/overworld/concord_fields/stripped_hearthoak_log"
+		},
+		"stripped_hearthoak_wood": {
+			"textures": "textures/overworld/concord_fields/stripped_hearthoak_wood"
+		},
+		"tall_fieldgrass": {
+			"textures": "textures/overworld/concord_fields/tall_fieldgrass"
+		},
+		"wayfarer_wheat": {
+			"textures": "textures/overworld/concord_fields/wayfarer_wheat"
+		},
+		"wayfarer_wheat_v2": {
+			"textures": "textures/overworld/concord_fields/wayfarer_wheat_v2"
+		},
+		"wayside_shrub": {
+			"textures": "textures/overworld/concord_fields/wayside_shrub"
+		},
+		"worn_concord_stonebricks": {
+			"textures": "textures/overworld/concord_fields/worn_concord_stonebricks"
+		},
+		"concord_gravel": {
+			"textures": "textures/overworld/concord_fields/concord_gravel"
+		}
+	}
 }

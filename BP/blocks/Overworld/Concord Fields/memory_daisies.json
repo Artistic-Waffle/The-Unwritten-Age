@@ -1,0 +1,32 @@
+{
+    "format_version": "1.26.3",
+    "minecraft:block": {
+        "description": {
+            "identifier": "tua:memory_daisies",
+            "menu_category": {
+                "category": "construction"
+            }
+        },
+        "components": {
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "memory_daisies",
+                    "render_method": "alpha_test_single_sided",
+                    "face_dimming": false
+                }
+            },
+            "minecraft:geometry": {
+                "identifier": "geometry.plane_double"
+            },
+            "minecraft:collision_box": {
+                "origin": [-8,0,-8],
+                "size": [16,16,16]
+            },
+            "minecraft:selection_box": {
+                "origin": [-8,0,-8],
+                "size": [16,16,16]
+            },
+            "minecraft:display_name": "Memory Daisies"
+        }
+    }
+}

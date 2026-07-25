@@ -1,7 +1,7 @@
 {
 	"type": "minecraftBedrock",
 	"name": "The Unwritten Age",
-	"namespace": "ua",
+	"namespace": "tua",
 	"authors": [
 		"Waffle"
 	],
