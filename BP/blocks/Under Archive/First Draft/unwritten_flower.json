@@ -2,7 +2,7 @@
     "format_version": "1.26.3",
     "minecraft:block": {
         "description": {
-            "identifier": "tua:concord_stonebricks_tile",
+            "identifier": "tua:unwritten_flower",
             "menu_category": {
                 "category": "construction"
             }
@@ -10,12 +10,13 @@
         "components": {
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "concord_stonebricks_tile",
-                    "render_method": "opaque"
+                    "texture": "unwritten_flower",
+                    "render_method": "alpha_test_single_sided",
+                    "face_dimming": false
                 }
             },
             "minecraft:geometry": {
-                "identifier": "geometry.block"
+                "identifier": "geometry.plane_double"
             },
             "minecraft:collision_box": {
                 "origin": [-8,0,-8],
@@ -25,7 +26,7 @@
                 "origin": [-8,0,-8],
                 "size": [16,16,16]
             },
-            "minecraft:display_name": "Concord Stonebricks Tile"
+            "minecraft:display_name": "Unwritten Flower"
         }
     }
 }

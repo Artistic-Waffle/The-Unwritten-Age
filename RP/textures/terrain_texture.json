@@ -22,6 +22,9 @@
 		"concord_stone": {
 			"textures": "textures/overworld/concord_fields/concord_stone"
 		},
+		"concord_deepslate": {
+			"textures": "textures/overworld/concord_fields/concord_deepslate"
+		},
 		"fieldgrass": {
 			"textures": "textures/overworld/concord_fields/fieldgrass"
 		},
@@ -84,6 +87,85 @@
 		},
 		"concord_gravel": {
 			"textures": "textures/overworld/concord_fields/concord_gravel"
+		},
+		"hearthoak_stairs": {
+			"textures": "textures/overworld/concord_fields/hearthoak_stairs"
+		},
+		"mossy_hearthoak_shingles_stairs": {
+			"textures": "textures/overworld/concord_fields/mossy_hearthoak_shingles_stairs"
+		},
+		"weatherd_hearthoak_shingles_stairs": {
+			"textures": "textures/overworld/concord_fields/weatherd_hearthoak_shingles_stairs"
+		},
+		"broken_hearthoak_shingles_stairs": {
+			"textures": "textures/overworld/concord_fields/broken_hearthoak_shingles_stairs"
+		},
+		"hearthoak_shingles_stairs": {
+			"textures": "textures/overworld/concord_fields/hearthoak_shingles_stairs"
+		},
+		"blank_blossom": {
+			"textures" : "textures/under_archive/first_draft/blank_blossom"
+		},
+		"blank_foundation":{
+			"textures" : "textures/under_archive/first_draft/blank_foundation"
+		},
+		"draftgrass":{
+			"textures" : "textures/under_archive/first_draft/draftgrass"
+		},
+		"draftsoil":{
+			"textures" : "textures/under_archive/first_draft/draftsoil"
+		},
+		"draft_stone":{
+			"textures" : "textures/under_archive/first_draft/draft_stone"
+		},
+		"inkbud":{
+			"textures" : "textures/under_archive/first_draft/inkbud"
+		},
+		"memory_soil":{
+			"textures" : "textures/under_archive/first_draft/memory_soil"
+		},
+		"paper_leaf":{
+			"textures" : "textures/under_archive/first_draft/paper_leaf"
+		},
+		"parchment_reed":{
+			"textures" : "textures/under_archive/first_draft/parchment_reed"
+		},
+		"parchment_turf":{
+			"textures" : "textures/under_archive/first_draft/parchment_turf"
+		},
+		"quill_grass":{
+			"textures" : "textures/under_archive/first_draft/quill_grass"
+		},
+		"rough_draftstone":{
+			"textures" : "textures/under_archive/first_draft/rough_draftstone"
+		},
+		"scriptbark_log":{
+			"textures" : "textures/under_archive/first_draft/scriptbark_log"
+		},
+		"scriptbark_planks":{
+			"textures" : "textures/under_archive/first_draft/scriptbark_planks"
+		},
+		"paper_leaf_sapling":{
+			"textures" : "textures/under_archive/first_draft/paper_leaf_sapling"
+		},
+		"scriptbark_wood":{
+			"textures" : "textures/under_archive/first_draft/scriptbark_wood"
+		},
+		"stripped_scriptbark_log":{
+			"textures" : "textures/under_archive/first_draft/stripped_scriptbark_log"
+		},
+		"stripped_scriptbark_wood":{
+			"textures" : "textures/under_archive/first_draft/stripped_scriptbark_wood"
+		},
+		"tall_quill_grass":{
+			"textures" : "textures/under_archive/first_draft/tall_quill_grass"
+		},
+		"unifinished_draftstone":{
+			"textures" : "textures/under_archive/first_draft/unfinished_draftstone"
+		},
+		"unwritten_flower":{
+			"textures" : "textures/under_archive/first_draft/unwritten_flower"
 		}
+		
 	}
 }

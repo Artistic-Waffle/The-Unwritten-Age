@@ -2,7 +2,7 @@
     "format_version": "1.26.3",
     "minecraft:block": {
         "description": {
-            "identifier": "tua:concord_stonebricks_tile",
+            "identifier": "tua:scriptbark_log",
             "menu_category": {
                 "category": "construction"
             }
@@ -10,7 +10,7 @@
         "components": {
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "concord_stonebricks_tile",
+                    "texture": "scriptbark_log",
                     "render_method": "opaque"
                 }
             },
@@ -25,7 +25,7 @@
                 "origin": [-8,0,-8],
                 "size": [16,16,16]
             },
-            "minecraft:display_name": "Concord Stonebricks Tile"
+            "minecraft:display_name": "Scriptbark Log"
         }
     }
 }
