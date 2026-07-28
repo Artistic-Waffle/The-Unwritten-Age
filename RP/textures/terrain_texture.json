@@ -165,6 +165,66 @@
 		},
 		"unwritten_flower":{
 			"textures" : "textures/under_archive/first_draft/unwritten_flower"
+		},
+		"war_torn_soil":{
+			"textures" : "textures/overworld/ashbanner_front/war_torn_soil"
+		},
+		"ashbanner_stone":{
+			"textures" : "textures/overworld/ashbanner_front/ashbanner_stone"
+		},
+		"ashbanner_grass":{
+			"textures" : "textures/overworld/ashbanner_front/ashbanner_grass"
+		},
+		"trench_thistle":{
+			"textures" : "textures/overworld/ashbanner_front/trench_thistle"
+		},
+		"trench_soil":{
+			"textures" : "textures/overworld/ashbanner_front/trench_soil"
+		},
+		"burnt_banneroak_leaves":{
+			"textures" : "textures/overworld/ashbanner_front/burnt_banneroak_leaves"
+		},
+		"stripped_banneroak_log":{
+			"textures" : "textures/overworld/ashbanner_front/stripped_banneroak_log"
+		},
+		"stripped_banneroak_wood":{
+			"textures" : "textures/overworld/ashbanner_front/stripped_banneroak_wood"
+		},
+		"banneroak_planks":{
+			"textures" : "textures/overworld/ashbanner_front/banneroak_planks"
+		},
+		"banneroak_log":{
+			"textures" : "textures/overworld/ashbanner_front/banneroak_log"
+		},
+		"banneroak_wood":{
+			"textures" : "textures/overworld/ashbanner_front/banneroak_wood"
+		},
+		"battlefield_grass":{
+			"textures" : "textures/overworld/ashbanner_front/battlefield_grass"
+		},
+		"ironweed":{
+			"textures" : "textures/overworld/ashbanner_front/ironweed"
+		},
+		"scorched_gravel":{
+			"textures" : "textures/overworld/ashbanner_front/scorched_gravel"
+		},
+		"ashbanner_rubble":{
+			"textures" : "textures/overworld/ashbanner_front/ashbanner_rubble"
+		},
+		"broken_ashbanner_stone":{
+			"textures" : "textures/overworld/ashbanner_front/broken_ashbanner_stone"
+		},
+		"ash":{
+			"textures" : "textures/overworld/ashbanner_front/ash"
+		},
+		"ashroot":{
+			"textures" : "textures/overworld/ashbanner_front/ashroot"
+		},
+		"banneroak_sapling":{
+			"textures" : "textures/overworld/ashbanner_front/banneroak_sapling"
+		},
+		"thorn_bush":{
+			"textures" : "textures/overworld/ashbanner_front/thorn_bush"
 		}
 		
 	}

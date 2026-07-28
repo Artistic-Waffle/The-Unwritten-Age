@@ -1,0 +1,31 @@
+{
+    "format_version": "1.26.3",
+    "minecraft:block": {
+        "description": {
+            "identifier": "tua:thorn_bush",
+            "menu_category": {
+                "category": "construction"
+            }
+        },
+        "components": {
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "thorn_bush",
+                    "render_method": "alpha_test_single_sided"
+                }
+            },
+            "minecraft:geometry": {
+                "identifier": "geometry.plane"
+            },
+            "minecraft:collision_box": {
+                "origin": [-8,0,-8],
+                "size": [16,16,16]
+            },
+            "minecraft:selection_box": {
+                "origin": [-8,0,-8],
+                "size": [16,16,16]
+            },
+            "minecraft:display_name": "thorn_bush"
+        }
+    }
+}
