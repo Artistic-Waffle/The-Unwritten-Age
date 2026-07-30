@@ -1,0 +1,32 @@
+{
+    "format_version": "1.26.3",
+    "minecraft:block": {
+        "description": {
+            "identifier": "tua:ghostgrass",
+            "menu_category": {
+                "category": "construction"
+            }
+          },
+        
+        "components": {
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "ghost_grass",
+                    "render_method": "alpha_test_single_sided"
+                }
+            },
+            "minecraft:geometry": {
+                "identifier": "geometry.sapling"
+            },
+            "minecraft:collision_box": {
+                "origin": [-8,0,-8],
+                "size": [16,16,16]
+            },
+            "minecraft:selection_box": {
+                "origin": [-8,0,-8],
+                "size": [16,16,16]
+            },
+            "minecraft:display_name": "Ghostgrass"
+        }
+    }
+}

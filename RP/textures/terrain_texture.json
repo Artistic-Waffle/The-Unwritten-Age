@@ -225,7 +225,74 @@
 		},
 		"thorn_bush":{
 			"textures" : "textures/overworld/ashbanner_front/thorn_bush"
+		},
+		"erased_masonry":{
+			"textures" : "textures/under_archive/redacted_deep/erased_masonry"
+		},
+		"redacted_leaves":{
+			"textures" : "textures/under_archive/redacted_deep/redacted_leaves"
+		},
+		"stripped_nullwood_log":{
+			"textures" : "textures/under_archive/redacted_deep/stripped_nullwood_log"
+		},
+		"stripped_nullwood":{
+			"textures" : "textures/under_archive/redacted_deep/stripped_nullwood"
+		},
+		"nullwood_planks":{
+			"textures" : "textures/under_archive/redacted_deep/nullwood_planks"
+		},
+		"nullwood_log":{
+			"textures" : "textures/under_archive/redacted_deep/nullwood_log"
+		},
+		"nullwood":{
+			"textures" : "textures/under_archive/redacted_deep/nullwood"
+		},
+		"nullwood_sapling":{
+			"textures" : "textures/under_archive/redacted_deep/nullwood_sapling"
+		},
+		"whisper_stalk":{
+			"textures" : "textures/under_archive/redacted_deep/whisper_stalk"
+		},
+		"black_reed":{
+			"textures" : "textures/under_archive/redacted_deep/black_reed"
+		},
+		"censor_fern":{
+			"textures" : "textures/under_archive/redacted_deep/censor_fern"
+		},
+		"censor_slate":{
+			"textures" : "textures/under_archive/redacted_deep/censor_slate"
+		},
+		"cyan_ghost_grass":{
+			"textures" : "textures/under_archive/redacted_deep/cyan_ghostgrass"
+		},
+		"ghost_grass":{
+			"textures" : "textures/under_archive/redacted_deep/ghost_grass"
+		},
+		"erased_bloom":{
+			"textures" : "textures/under_archive/redacted_deep/erased_bloom"
+		},
+		"fracture_censor_stone":{
+			"textures" : "textures/under_archive/redacted_deep/fracture_censor_stone"
+		},
+		"ink_clay":{
+			"textures" : "textures/under_archive/redacted_deep/ink_clay"
+		},
+		"ink_tendril":{
+			"textures" : "textures/under_archive/redacted_deep/ink_tendril"
+		},
+		"redacted_memory_grass":{
+			"textures" : "textures/under_archive/redacted_deep/redacted_memory_grass"
+		},
+		"redacted_stone":{
+			"textures" : "textures/under_archive/redacted_deep/redacted_stone"
+		},
+		"redaction_moss":{
+			"textures" : "textures/under_archive/redacted_deep/redaction_moss"
+		},
+		"void_archive_stone":{
+			"textures" : "textures/under_archive/redacted_deep/void_archive_stone"
 		}
+		
 		
 	}
 }

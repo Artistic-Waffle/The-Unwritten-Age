@@ -1,3 +1,4 @@
 {
-    "editor.inlineSuggest.suppressSuggestions": false
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "editor.inlineSuggest.suppressInSnippetMode": false
 }
